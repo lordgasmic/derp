@@ -1,0 +1,12 @@
+<products>
+	<product>
+		<name>p1</name>
+		<type>t1</type>
+		<blah />
+	</product>
+	<product>
+		<name>p2</name>
+		<type>t2</type>
+		<blah />
+	</product>
+</products>
